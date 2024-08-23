@@ -23,7 +23,7 @@ LICENSE = 'GNU'
 INSTALL_REQUIRES = []
 
 #PACKAGES=["rhsegmentor"]
-PACKAGES = find_packages(include=['infoFun'])
+PACKAGES = find_packages(include=['infoFunWP'])
 CLASSIFIERS = [
               "Development Status :: 4 - Beta",
               "Programming Language :: Python :: 3",
