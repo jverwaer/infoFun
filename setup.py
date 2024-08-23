@@ -9,7 +9,7 @@ except ImportError:
 # Setup parameters
 
 DISTNAME = "infoFunWP"
-VERSION = "0.1.0"
+VERSION = "0.1.1"
 AUTHOR = "Jan Verwaeren"
 AUTHOR_EMAIL ="Jan.Verwaeren@UGent.be"
 
